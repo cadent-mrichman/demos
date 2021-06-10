@@ -6,3 +6,4 @@ nbviewer links:
 
 * [demo-groupby.ipynb](https://nbviewer.jupyter.org/github/cadent-mrichman/demos/blob/main/demo-groupby.ipynb)
 * [demo-multiprocessing.ipynb](https://nbviewer.jupyter.org/github/cadent-mrichman/demos/blob/main/demo-multiprocessing.ipynb)
+* [demo-sql-template.ipynb](https://nbviewer.jupyter.org/github/cadent-mrichman/demos/blob/main/demo-sql-template.ipynb)
